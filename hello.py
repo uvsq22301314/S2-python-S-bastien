@@ -2,5 +2,5 @@
 # Enter the commi name in the "Message" panel
 # Click "Commit"
 # Click on "points"
-# Select pull
+# Select "Push"
 # You're done
